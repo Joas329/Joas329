@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=330 width=350 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joas329&theme=merko&hide_border=true" />
+  <img height=150  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joas329&theme=merko&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=140  width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joas329&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height=150  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joas329&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
 <details>
