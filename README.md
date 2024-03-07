@@ -1,6 +1,6 @@
 # Joaquin Philco
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+stranger...;Feel+free+to+reach+out+to+me!;I'm+currently+coding+or+sleeping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+stranger...;Feel+free+to+reach+out+to+me!;I'm+currently+coding+or+sleeping&color=b3d141)](https://git.io/typing-svg)
 
 ## About ME
 - -> I like anything that involves embedded programming, space and controlling systems. 
