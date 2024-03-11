@@ -6,6 +6,7 @@
 - -> I like anything that involves embedded programming, space and controlling systems. 
 - -> Currently involved in robotics and space communication systems.
 - -> You will most likely find me at the lab or a coffee shop.
+- -> I LOVE CAPYBARAS AND BRUNO MARS
 <!--
 **Joas329/Joas329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
