@@ -7,9 +7,6 @@
 - -> Currently involved in robotics and space communication systems.
 - -> You will most likely find me at the lab or a coffee shop.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joas329&theme=merko&hide_border=true" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joas329&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" />
 </a>
@@ -25,10 +22,4 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</details>
-
-<details>
-<summary>🔝 Top Contributed Repo </summary>
-  
-![](https://github-contributor-stats.vercel.app/api?username=Joas329&limit=5&theme=merko&combine_all_yearly_contributions=true&hide_border=true)
 </details>
